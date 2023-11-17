@@ -2,6 +2,7 @@
   "name": "community-cordova-plugin-filepath",
   "version": "1.7.1",
   "description": "Resolve native file paths from content URLs for Cordova platforms",
+  "types": "types/index.d.ts",
   "cordova": {
     "id": "community-cordova-plugin-filepath",
     "platforms": [
